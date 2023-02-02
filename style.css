@@ -1,0 +1,41 @@
+body{
+    background-color: #882318;
+}
+*{
+    background: hwb(59 4% 8%);
+    font-size: 25px;
+}
+
+h1{
+    color:#18882e
+}
+
+p{
+    color:rgb(18, 18, 234)
+}
+
+.one{
+    color: rgb(201, 35, 179);
+    font-size: 100px;
+    
+
+}
+
+/* id selector */
+#two{
+    background-color: rgb(192, 234, 255);
+}
+/* group selector */
+#two, ol {
+    font-size: 40px;
+    color:rgba(20, 7, 7, 0.811);
+    background-color: rgb(201, 176, 176);
+
+}
+
+.border{
+    border: 2px solid rgb(0, 255, 170);
+    font-size: 20px;
+    margin: 100px;    
+    padding: 100px;
+}
