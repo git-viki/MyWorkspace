@@ -1,0 +1,10 @@
+/*
+Inverted Hlaf Pyramid 
+
+* * * * *
+* * * *
+* * *
+* *
+*
+
+*/
