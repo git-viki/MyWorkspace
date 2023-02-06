@@ -6,13 +6,13 @@ int main(){
     cout<<a<<endl;
     b= &a;
     cout<<b<<endl;
-    c= b;
-    cout<<c<<endl;
-    cout<<d<<endl;
-    c=&d;
-    cout<<c<<endl;
-    e = 0x16efdb158 ;
-    cout<<e<<endl;
+    // c= b;
+    // cout<<c<<endl;
+    // cout<<d<<endl;
+    // c=&d;
+    // cout<<c<<endl;
+    //e = 0x16efdb158 ;
+    // cout<<e<<endl;
 
 
 
