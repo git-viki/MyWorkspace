@@ -1,21 +1,21 @@
 #include <iostream>
 using namespace std;
-int main(){
-    int a=5, *b, *c, d=2, e;
+
+    int point1(){
+
+    int a=5, *b, *c, d=2 ;
     
     cout<<a<<endl;
     b= &a;
-    cout<<b<<endl;
-    // c= b;
-    // cout<<c<<endl;
-    // cout<<d<<endl;
-    // c=&d;
-    // cout<<c<<endl;
-    //e = 0x16efdb158 ;
-    // cout<<e<<endl;
+    cout<<*b<<endl;
+    c= b;
+    cout<<*c<<endl;
+    return 0;
+   }
 
+int main(){
 
-
+    point1();
 
     return 0;
 }
