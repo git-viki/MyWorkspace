@@ -2,12 +2,12 @@ body{
     background-color: #882318;
 }
 *{
-    background: hwb(59 4% 8%);
+    background: hwb(117 4% 8%);
     font-size: 25px;
 }
 
 h1{
-    color:#18882e
+    color:hsl(249, 70%, 31%)
 }
 
 p{
@@ -29,7 +29,7 @@ p{
 #two, ol {
     font-size: 40px;
     color:rgba(20, 7, 7, 0.811);
-    background-color: rgb(201, 176, 176);
+    background-color: rgb(155, 12, 12);
 
 }
 

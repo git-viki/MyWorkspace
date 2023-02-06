@@ -12,4 +12,8 @@
 # n3 = int( "%s%s%s" % (a,a,a) )
 # print (n1+n2+n3)
 
-n = input("input the value of n - ")
+n = input("input the value of n : ")
+n1 = n
+n2= 2*n1
+n3= 3*n1
+print(int(n1) + int(n2) + int (n3))
